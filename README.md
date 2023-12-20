@@ -1,1 +1,2 @@
 # odin-recipes
+Welcome to my first project with The Odin Project! In this assignment, I'll be creating a web page using HTML. Anticipate a pretty boring, as I explore the use of headers, sections, lists, images, and links. 
